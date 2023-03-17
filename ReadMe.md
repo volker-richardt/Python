@@ -4,6 +4,8 @@
 - Installation Python
 - Installation PyCharm
 ### Variablen und Datentypen
+- Print und Variablen
+- Input und Datentypen
 ### Kontrollstrukturen
 ### Funktionen
 - Funktionen
