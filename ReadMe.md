@@ -1,4 +1,4 @@
-# Python Bildungsurlaub VHS Detmold
+# Python
 ## Inhalt
 ### Installationen
 - Installation Python
