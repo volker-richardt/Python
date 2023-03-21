@@ -9,6 +9,7 @@
 - Datenstrukturen
 - Formatierte Strings
 ### Kontrollstrukturen
+- Kontrollstrukturen
 ### Funktionen
 - Funktionen
 ### Übungen
