@@ -9,13 +9,13 @@
 
 ### Variablen und Datentypen
 
-| Anleitung            | Datei(en) |
-| -------------------- | --------- |
-| Print und Variablen  |           |
-| Input und Datentypen |           |
-| Datenstrukturen      |           |
-|                      |           |
-| Formatierte Strings  |           |
+| Anleitung                                                                                                | Datei(en) |
+| -------------------------------------------------------------------------------------------------------- | --------- |
+| [Print und Variablen](https://github.com/volker-richardt/Python/blob/master/Print%20und%20Variablen.pdf) |           |
+| Input und Datentypen                                                                                     |           |
+| Datenstrukturen                                                                                          |           |
+|                                                                                                          |           |
+| Formatierte Strings                                                                                      |           |
 
 ### Kontrollstrukturen
 
