@@ -6,6 +6,8 @@
 ### Variablen und Datentypen
 - Print und Variablen
 - Input und Datentypen
+- Datenstrukturen
+- Formatierte Strings
 ### Kontrollstrukturen
 ### Funktionen
 - Funktionen
