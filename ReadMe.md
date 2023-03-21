@@ -4,8 +4,8 @@
 
 ### Installationen
 
-- Installation Python
-- Installation PyCharm
+- [Installation Python](https://github.com/volker-richardt/Python/blob/master/Installation%20Python.pdf)
+- [Installation PyCharm](https://github.com/volker-richardt/Python/blob/master/Installation%20PyCharm.pdf)
 
 ### Variablen und Datentypen
 
@@ -14,7 +14,7 @@
 | Print und Variablen  |           |
 | Input und Datentypen |           |
 | Datenstrukturen      |           |
-|                      |          |
+|                      |           |
 | Formatierte Strings  |           |
 
 ### Kontrollstrukturen
